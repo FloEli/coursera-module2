@@ -1,4 +1,7 @@
 body {
-  background-color: gray;
-  font-size: 130%;
+  background-color: black;
+  font-size: 100%;
+}
+h1 {
+  font-size: 200%
 }
