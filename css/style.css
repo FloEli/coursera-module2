@@ -26,7 +26,7 @@ p#chicken {
     font-size: 125%;
 	float: right;
 	border: 1px solid black;
-	padding: 5px;
+	padding: 5px 40px 5px 40px;
 	position: top-right;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -38,7 +38,7 @@ p#beef {
     font-size: 125%;
 	float: right;
 	border: 1px solid black;
-	padding: 5px;
+	padding: 5px 50px 5px 50px;
     position: top-right;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -50,7 +50,7 @@ p#sushi {
     font-size: 125%;
 	float: right;
 	border: 1px solid black;
-	padding: 5px;
+	padding: 5px 50px 5px 50px;
     position: top-right;
 	margin-top: 0px;
 	margin-right: 0px;
